@@ -18,6 +18,10 @@ menu:
       pageRef: /contact
       weight: 1    
 
+caches:
+  images:
+    dir: :cacheDir/images
+
 params:
   search:
     enable: false
