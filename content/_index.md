@@ -5,7 +5,7 @@ title: ''
 ---
 
 {{< cards cols="1">}}
-  {{< card link="#" title="Starpulse" image="/starpulse.png" subtitle="Start your day with Starpulse. Because even one word can make a difference." method="Fill" options="800x800 q95 webp" >}}
+  {{< card link="https://play.google.com/store/apps/details?id=com.kog.apps.starpulse&pcampaignid=web_share" title="Starpulse" image="/starpulse.png" subtitle="Start your day with Starpulse. Because even one word can make a difference." method="Fill" options="800x800 q95 webp" >}}
 {{< /cards >}}
 
 # 🌟 Welcome to Starpulse
